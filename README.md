@@ -44,7 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geisterfurz007&show_icons=true&locale=en" alt="geisterfurz007" /></p>
 
-I worked on AppWrite during 2021 and 2022 Hacktoberfest!
+I worked on Appwrite during 2021 and 2022 Hacktoberfest!
 
 <a href="https://makers.appwrite.io/geisterfurz007">
     <img src="https://appwrite.io/cards/makers/geisterfurz007" alt="geisterfurz007's Maker Card" height="150" />
