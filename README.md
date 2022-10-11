@@ -50,4 +50,8 @@ I worked on Appwrite during 2021 and 2022 Hacktoberfest!
     <img src="https://appwrite.io/cards/makers/geisterfurz007" alt="geisterfurz007's Maker Card" height="150" />
 </a>
 
+I worked on Novu during 2022 Hacktoberfest!
+
+<a href="https://novu.co/contributors/geisterfurz007/"><img src="https://contributors.novu.co/profiles/geisterfurz007-small.jpg" height="170" width="450" alt="" /></a>
+
 <samp>Stuff built with passion, a lot of music and no caffeine!</samp>
