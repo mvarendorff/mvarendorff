@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything web and app development related!**
 
-- 📫 Easiest way to reach me is on Discord at **geisterfurz007#5952**
+- 📫 Easiest way to reach me is on Discord at **@geisterfurz007**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
