@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **anything web and app development related!**
 
-- 📫 Easiest way to reach me is on Discord at **@geisterfurz007**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/6707985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6707985" height="30" width="40" /></a>
