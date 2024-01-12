@@ -1,7 +1,7 @@
 <h1 align="center">Moin 👋, I'm geisterfurz007</h1>
 <h3 align="center">I code a lot, some say too much. I love TypeScript and Flutter!</h3>
 
-- 🔭 I’m currently working on [some Discord bot for a happy bunch of people](https://github.com/Yes-Theory-Fam/yesbot-ts) and a website that isn't yet public 👀
+- 🔭 I’m currently working on [some Discord bot for a happy bunch of people](https://github.com/Yes-Theory-Fam/yesbot-ts) and a [small community website](https://github.com/Yes-Theory-Fam/yestheory.family) that is launching soon (or already has, depending on when you read this) 👀
 
 - 🌱 I’m currently learning **Next.js and properly managing a project certainly too big for me...**
 
@@ -42,13 +42,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geisterfurz007&show_icons=true&locale=en" alt="geisterfurz007" /></p>
 
-I worked on Appwrite during 2021 and 2022 Hacktoberfest!
+I worked on Appwrite during 2021, 2022, and 2023 Hacktoberfest!
 
-<a href="https://makers.appwrite.io/geisterfurz007">
-    <img src="https://appwrite.io/cards/makers/geisterfurz007" alt="geisterfurz007's Maker Card" height="150" />
-</a>
-
-I worked on Novu during 2022 Hacktoberfest!
+I also worked on Novu during 2022 Hacktoberfest!
 
 <a href="https://novu.co/contributors/geisterfurz007/"><img src="https://contributors.novu.co/profiles/geisterfurz007-small.jpg" height="170" width="450" alt="" /></a>
 
