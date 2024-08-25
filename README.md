@@ -1,16 +1,11 @@
-<h1 align="center">Moin 👋, I'm geisterfurz007</h1>
+<h1 align="center">Moin 👋, I'm mvarendorff</h1>
 <h3 align="center">I code a lot, some say too much. I love TypeScript and Flutter!</h3>
 
-- 🔭 I’m currently working on [some Discord bot for a happy bunch of people](https://github.com/Yes-Theory-Fam/yesbot-ts) and a [small community website](https://github.com/Yes-Theory-Fam/yestheory.family) that is launching soon (or already has, depending on when you read this) 👀
+- 🔭 I’m currently working on [some Discord bot for a happy bunch of people](https://github.com/Yes-Theory-Fam/yesbot-ts) and a [small community website](https://github.com/Yes-Theory-Fam/yestheory.family) that you can find [here](https://yestheory.family) 👀
 
 - 🌱 I’m currently learning **Next.js and properly managing a project certainly too big for me...**
 
 - 💬 Ask me about **anything web and app development related!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/6707985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6707985" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">I consider myself proficient in these things:</h3>
 <p align="left">
@@ -30,22 +25,18 @@
 
 <h3 align="left">I also use this stuff a lot:</h3>
 <p align="left">
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geisterfurz007&show_icons=true&locale=en" alt="geisterfurz007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvarendorff&show_icons=true&locale=en" alt="mvarendorff" /></p>
 
 I worked on Appwrite during 2021, 2022, and 2023 Hacktoberfest!
 
 I also worked on Novu during 2022 Hacktoberfest!
-
-<a href="https://novu.co/contributors/geisterfurz007/"><img src="https://contributors.novu.co/profiles/geisterfurz007-small.jpg" height="170" width="450" alt="" /></a>
 
 <samp>Stuff built with passion, a lot of music and no caffeine!</samp>
